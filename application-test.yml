@@ -1,2 +1,6 @@
 string:
   name: taylor swift
+  nickname: tay
+
+int:
+  number: 10
