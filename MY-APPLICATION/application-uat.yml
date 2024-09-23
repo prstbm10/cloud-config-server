@@ -1,0 +1,5 @@
+string
+  name: myName
+
+int
+  age: 10
