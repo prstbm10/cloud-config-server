@@ -1,0 +1,5 @@
+string:
+  name: test-name
+
+int:
+  num: 200
