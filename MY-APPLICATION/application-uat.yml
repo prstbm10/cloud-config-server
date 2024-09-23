@@ -1,5 +1,5 @@
-string
+string:
   name: myName
 
-int
+int:
   age: 10
