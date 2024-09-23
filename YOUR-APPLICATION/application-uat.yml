@@ -1,5 +1,5 @@
-string
+string:
   name: dragon
 
-int
+int:
   age: 20
